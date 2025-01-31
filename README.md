@@ -229,7 +229,7 @@ Now that you have confirmed that you do have the real SeedSigner Project's Publi
 
  **On Linux or OSX:** Run this command
 ```
-shasum -a 256 --ignore-missing --check seedsigner.0.7.*.sha256.txt  
+shasum -a 256 --ignore-missing --check seedsigner.0.8.*.sha256.txt  
 ```
 
 **On Windows (inside Powershell):** Run this command
